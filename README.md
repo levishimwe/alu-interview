@@ -1,5 +1,5 @@
 
-# ALU Technical Interviews Preparations
+## ALU Technical Interviews Preparations
 
 This repository contains resources to help you prepare for technical interviews at the African Leadership University (ALU). It covers coding challenges, interview tips, and guidance on common interview formats.
 
