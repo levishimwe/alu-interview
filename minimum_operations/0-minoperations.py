@@ -21,4 +21,10 @@ def minOperations(n):
     operations = 0
     divisor = 2
 
-    
+    while n > 1:
+        if n % divisor == 0:
+            n = n // divisor
+            operations += divisor
+        else:
+            divisor += 1
+    return operations
